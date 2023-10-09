@@ -13,7 +13,7 @@ Encoding
 Decoding
 
     If you provide an encoded file and a key file, the program decodes the data and saves it to a new file.
-    Ensure that you provide both the encoded file and the corresponding key file for successful decoding.
+    Ensure that you provide both the encoded file as a first file and the corresponding key file as a second for successful decoding.
 
 Command-Line Interface (CLI)
 
