@@ -1,0 +1,1 @@
+g++ ../Decoder/main.cpp ../Decoder/Decoder.cpp ../DOEncodeDecode/CubeDecoder.cpp ../DOEncodeDecode/CubeEncoder.cpp -o decoder.exe
